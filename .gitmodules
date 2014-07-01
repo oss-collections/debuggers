@@ -1,0 +1,9 @@
+[submodule "binutils-gdb"]
+	path = binutils-gdb
+	url = git://sourceware.org/git/binutils-gdb.git
+[submodule "rr"]
+	path = rr
+	url = https://github.com/mozilla/rr.git
+[submodule "xdebug"]
+	path = xdebug
+	url = git://github.com/xdebug/xdebug.git
